@@ -1,4 +1,4 @@
-package com.virus17.designpatthern.strategy;
+package com.virus17.designpattern.strategy;
 
 import java.util.List;
 
