@@ -15,6 +15,7 @@ package com.virus17.designpattern.singleton;
  *    the instance. And from then it will give the same instance to all other clients.
  *    This way we dont have to keep the instance in memory untill its actually required
  *    
+ * Real Java Example : java.lang.Runtime#getRuntime()  java.awt.Desktop#getDesktop()
  * @author virus17
  */
 public class ClientApp {
